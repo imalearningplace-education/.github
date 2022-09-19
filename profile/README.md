@@ -1,4 +1,4 @@
-## Olá 👋 Nós Somos a Ímã Learning Place
+## Olá 👋 Nós somos a Ímã Learning Place
 
 <!--
 
